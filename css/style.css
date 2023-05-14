@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.body-home, .body-login {
+	background: url(../img/bg.png);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.black-fill {
+	background: rgba(0,0,0, 0.7);
+	min-height: 100vh;
+}
+#homeNav {
+	/* background: rgba(255,255,255, 0.5) !important; */
+	/* background-color: #1A66D9; */
+	
+}
+#navButton{
+	color: #FFFFFF;
+	font-family: 'Roboto';
+	font-style: normal;
+}
+.welcome-text {
+	min-height: 80vh;
+}
+.welcome-text img {
+	width: 330px;
+	margin: 50px;
+}
+.welcome-text h4 {
+	/* color: #eee;
+	font-size: 51px;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal; */
+
+	width: 922px;
+	height: 127px;
+	left: 291px;
+	top: 579px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 80px;
+	line-height: 94px;
+	text-align: center;
+
+	color: #FFFFFF;
+
+}
+
+.welcome-text button{
+	background: #1A66D9;
+	border: 2px solid #FFFFFF;
+	border-radius: 20px;
+	width: 315px;
+	height: 68px;
+	left: 595px;
+	top: 758px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 47px;
+	color: #FFFFFF;	
+}
+/* .welcome-text p {
+	color: #222;
+	background: rgba(255,255,255, 0.5);
+	padding: 5px;
+	border-radius: 4px;
+} */
+#about {
+	min-height: 100vh;
+}
+#about .card-1{
+	max-width: 600px;
+	width: 90%;
+	/* background: rgba(255,255,255, 0.5); */
+	background: #1A66D9;
+	color: #FFFFFF;	
+	padding: 20px;
+	border-radius: 25px;
+	border: 1px solid rgba(255, 255, 255, 0.67);
+}
+#about .card-1 h5{
+	font-family: 'Roboto';
+	font-size: 28px;
+}
+
+#contact {
+	min-height: 100vh;
+}
+#contact form{
+	max-width: 600px;
+	width: 90%;
+	/* background: rgba(255,255,255, 0.5); */
+	background: #1A66D9;
+	color: #FFFFFF;	
+	padding: 20px;
+	border-radius: 25px;
+	border: 1px solid rgba(255, 255, 255, 0.67);
+}
+#contact form h3 {
+	text-align: center;
+	font-family: 'Roboto'
+}
+textarea {
+	resize: none;
+}
+
+.login {
+	max-width: 500px;
+	width: 90%;
+	background: #11348F;
+	border: 1px solid rgba(255, 255, 255, 0.67);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+	padding: 10px;
+	border-radius: 25px;
+	box-sizing: border-box;
+}
+.login h3{
+	text-align: center;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 47px;
+	color: #FFFFFF;	
+}
+.w-450 {
+	width: 450px;
+}
+.n-table {
+	max-width: 800px;
+}
+.form-w {
+	max-width: 600px;
+	width: 100%;
+}
+
+.form-label{
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 35px;
+	color: #FFFFFF;
+}
+
+.form-control{
+	left: 505px;
+	top: 489px;
+	background: #FFFFFF;
+	border: 2px solid #FFFFFF;
+	border-radius: 20px;
+}
+
+.login-button{
+	
+	background: #1A66D9;
+	border: 2px solid #FFFFFF;
+	border-radius: 20px;
+	margin-left:8%;
+	width: 200px;
+	height: 68px;
+	left: 595px;
+	top: 758px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 47px;
+	color: #FFFFFF;	
+}
+.home-button{
+	background: #1A66D9;
+	border: 2px solid #FFFFFF;
+	border-radius: 20px;
+	width: 200px;
+	height: 68px;
+	left: 595px;
+	top: 758px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 47px;
+	color: #FFFFFF;	
+}
+
+

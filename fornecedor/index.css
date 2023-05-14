@@ -1,0 +1,409 @@
+.fundo-tela-icon {
+    position: absolute;
+    top: calc(50% - 512px);
+    left: calc(50% - 720px);
+    width: 1440px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .fundo-avisos,
+  .fundo-avisos1 {
+    position: absolute;
+    top: 368px;
+    left: 810px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-midnightblue-100);
+    width: 148px;
+    height: 466px;
+  }
+  .fundo-avisos1 {
+    left: 262px;
+    width: 515px;
+  }
+  .cartucho-impressora-hp,
+  .impresso-av1-,
+  .pincel-marcador-azul,
+  .pincel-marcador-preto {
+    position: absolute;
+    top: 676px;
+    left: 293px;
+    display: inline-block;
+    text-align: left;
+    width: 460px;
+    height: 34px;
+  }
+  .cartucho-impressora-hp,
+  .impresso-av1-,
+  .pincel-marcador-azul {
+    top: 562px;
+  }
+  .impresso-av1-,
+  .pincel-marcador-azul {
+    top: 619px;
+  }
+  .impresso-av1- {
+    top: 505px;
+  }
+  .descrio,
+  .quant {
+    font-size: var(--font-size-16xl);
+  }
+  .quant {
+    position: absolute;
+    top: 379px;
+    left: 821px;
+    display: inline-block;
+    width: 125px;
+    height: 34px;
+  }
+  .descrio {
+    top: 377px;
+    left: 293px;
+    width: 460px;
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3,
+  .b4,
+  .descrio,
+  .impresso-av1-1 {
+    position: absolute;
+    display: inline-block;
+    height: 34px;
+  }
+  .impresso-av1-1 {
+    top: 448px;
+    left: 293px;
+    text-align: left;
+    width: 460px;
+  }
+  .b,
+  .b1,
+  .b2,
+  .b3,
+  .b4 {
+    top: 676px;
+    left: 849px;
+    width: 70px;
+  }
+  .b1,
+  .b2,
+  .b3,
+  .b4 {
+    top: 562px;
+  }
+  .b2,
+  .b3,
+  .b4 {
+    top: 619px;
+  }
+  .b3,
+  .b4 {
+    top: 505px;
+  }
+  .b4 {
+    top: 448px;
+  }
+  .fundo-avisos2 {
+    position: absolute;
+    top: 368px;
+    left: 43px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-midnightblue-100);
+    width: 186px;
+    height: 466px;
+  }
+  .b5,
+  .b6,
+  .b7,
+  .b8,
+  .b9,
+  .cd-item {
+    position: absolute;
+    display: inline-block;
+    height: 34px;
+  }
+  .cd-item {
+    top: 379px;
+    left: 48px;
+    font-size: var(--font-size-16xl);
+    width: 175px;
+  }
+  .b5,
+  .b6,
+  .b7,
+  .b8,
+  .b9 {
+    top: 676px;
+    left: 101px;
+    width: 70px;
+  }
+  .b6,
+  .b7,
+  .b8,
+  .b9 {
+    top: 562px;
+  }
+  .b7,
+  .b8,
+  .b9 {
+    top: 619px;
+  }
+  .b8,
+  .b9 {
+    top: 505px;
+  }
+  .b9 {
+    top: 448px;
+  }
+  .fundo-avisos3 {
+    position: absolute;
+    top: 363px;
+    left: 991px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-midnightblue-100);
+    width: 186px;
+    height: 466px;
+  }
+  .b10,
+  .b11,
+  .b12,
+  .b13,
+  .b14,
+  .unit {
+    position: absolute;
+    display: inline-block;
+    height: 34px;
+  }
+  .unit {
+    top: 374px;
+    left: 996px;
+    font-size: var(--font-size-16xl);
+    width: 175px;
+  }
+  .b10,
+  .b11,
+  .b12,
+  .b13,
+  .b14 {
+    top: 671px;
+    left: 1049px;
+    width: 70px;
+  }
+  .b11,
+  .b12,
+  .b13,
+  .b14 {
+    top: 562px;
+    left: 1031px;
+    width: 105px;
+  }
+  .b12,
+  .b13,
+  .b14 {
+    top: 614px;
+    left: 1049px;
+    width: 70px;
+  }
+  .b13,
+  .b14 {
+    top: 500px;
+  }
+  .b14 {
+    top: 443px;
+  }
+  .fundo-avisos4,
+  .fundo-avisos5,
+  .fundo-avisos6 {
+    position: absolute;
+    top: 368px;
+    left: 1210px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-midnightblue-100);
+    width: 186px;
+    height: 466px;
+  }
+  .fundo-avisos5,
+  .fundo-avisos6 {
+    top: 897px;
+    left: 1068px;
+    width: 316px;
+    height: 85px;
+  }
+  .fundo-avisos6 {
+    top: 899px;
+    left: 48px;
+  }
+  .b15 {
+    top: 923px;
+    left: 1142px;
+    font-size: var(--font-size-16xl);
+    width: 168px;
+  }
+  .b15,
+  .b16,
+  .b17,
+  .b18,
+  .b19,
+  .b20,
+  .total {
+    position: absolute;
+    display: inline-block;
+    height: 34px;
+  }
+  .total {
+    top: 374px;
+    left: 1197px;
+    font-size: var(--font-size-16xl);
+    width: 175px;
+  }
+  .b16,
+  .b17,
+  .b18,
+  .b19,
+  .b20 {
+    top: 671px;
+    left: 1262px;
+    width: 87px;
+  }
+  .b17,
+  .b18,
+  .b19,
+  .b20 {
+    top: 562px;
+    left: 1250px;
+    width: 105px;
+  }
+  .b18,
+  .b19,
+  .b20 {
+    top: 620px;
+    left: 1262px;
+    width: 87px;
+  }
+  .b19,
+  .b20 {
+    top: 494px;
+    left: 1257px;
+    width: 98px;
+  }
+  .b20 {
+    top: 443px;
+    left: 1268px;
+    width: 70px;
+  }
+  .valor-da-compra {
+    margin: 0;
+  }
+  .valor-da-compra-container {
+    top: 858px;
+    left: 1105px;
+    color: #fff;
+    text-align: left;
+    width: 460px;
+    height: 41px;
+  }
+  .control-school,
+  .portal-do-professor,
+  .valor-da-compra-container {
+    position: absolute;
+    display: inline-block;
+  }
+  .portal-do-professor {
+    top: 26px;
+    left: 357px;
+    font-size: var(--font-size-51xl);
+    font-weight: 900;
+    width: 701px;
+    height: 73px;
+  }
+  .control-school {
+    top: 135px;
+    left: 0;
+    font-size: var(--font-size-xl);
+    width: 229px;
+    height: 27px;
+  }
+  .logo-app-icon {
+    position: absolute;
+    top: 0;
+    left: 56px;
+    width: 118px;
+    height: 125px;
+    object-fit: cover;
+  }
+  .carlos-teixeira {
+    position: absolute;
+    top: 130px;
+    left: 568px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    width: 357px;
+    height: 43px;
+  }
+  .fundo-usuario-icon {
+    position: absolute;
+    top: 99px;
+    left: 455px;
+    width: 103px;
+    height: 104px;
+    object-fit: cover;
+  }
+  .botao-materia4 {
+    position: absolute;
+    top: 26px;
+    left: 1259px;
+    background-color: #08236a;
+    border: 2px solid var(--color-white);
+    box-sizing: border-box;
+    width: 158px;
+    height: 37px;
+  }
+  .emitir-nota-fiscal,
+  .incio {
+    position: absolute;
+    display: inline-block;
+  }
+  .incio {
+    top: 27px;
+    left: 1297px;
+    text-align: left;
+    width: 89px;
+    height: 20px;
+  }
+  .emitir-nota-fiscal {
+    top: 922px;
+    left: 59px;
+    width: 294px;
+    height: 40px;
+  }
+  .pedido-de-compra,
+  .pedido-n-248787 {
+    position: absolute;
+    display: inline-block;
+    width: 564px;
+    height: 36px;
+  }
+  .pedido-de-compra {
+    top: 250px;
+    left: 465px;
+    font-size: var(--font-size-16xl);
+  }
+  .pedido-n-248787 {
+    top: 316px;
+    left: -99px;
+  }
+  .telapedidofornecedor {
+    position:relative;
+ 
+    box-sizing: border-box;
+    width: 100%;
+    height: 1024px;
+    overflow:visible;
+    text-align: center;
+    font-size: var(--font-size-11xl);
+    color: var(--color-white);
+    font-family: var(--font-roboto);
+  }
+  
